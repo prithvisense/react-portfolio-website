@@ -1,0 +1,11 @@
+.header{
+    border: 2rem;
+    font-size: 5rem;
+    font-family: 'Bangers', cursive;
+}
+.sub-heading{
+    font-family: 'Qwigley', cursive;
+    font-size: 3rem;
+    font-weight: lighter;
+    text-align: right;
+}
