@@ -14,4 +14,14 @@
   opacity: 0.8;
   border-radius: 5px;
   background-image: linear-gradient(to top, #FE7F2D, #E0F2E9);
+  display: flex;
+  flex-direction: row;
+}
+
+.tech-qualification-container{
+  width: 50%;
+  margin: 10px;
+  background-image: linear-gradient(to top, #3B1C32, #F3EAF4);
+  padding: 3vw;
+  border-radius: 5px;
 }

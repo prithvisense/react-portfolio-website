@@ -1,8 +1,17 @@
 
 .personal-info{
-    font-family: 'Qwigley', cursive;
-    font-size: 3rem;
+    font-family: 'Chathura', sans-serif;
+    font-size: 2rem;
     font-weight: lighter;
     text-align: right;
     display: inline-block;
+}
+
+.personal-info-heading{
+    height: 40px;
+    font-family: 'Megrim', cursive;
+}
+
+.my-image{
+    border-radius: 5px;
 }

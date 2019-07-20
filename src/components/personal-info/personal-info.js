@@ -6,10 +6,13 @@ class PersonalInfo extends React.Component{
         return (
             <div className="info-container-personal">
                 <div className="my-image">
-                    <img src={myImage}></img>
-
+                    <img src={myImage} alt="prithviraj" width="100%"></img>
                 </div>
                 <div className="personal-info">
+                <div className="personal-info-heading">
+                    <h1>About</h1>
+
+                </div>
                     <p>An enthusiast individual with positive motivation. Always willing to learn new things and stay updated with latest technologies. 
                     <br/> Hobbies include singing, playing outdoor games such as Cricket & Football and also computer games. Apart from them photography, playing guitar and listening to music releases my stress<br/>.</p>
                 </div>
