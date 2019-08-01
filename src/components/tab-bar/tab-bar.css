@@ -1,0 +1,16 @@
+.react-tabs__tab-list{
+    border-bottom: none;
+    margin: 0 0 0 ;
+    padding-top: 0% ;
+    margin-top: 1% ;
+    font-family: 'Megrim', cursive;
+}
+
+.react-tabs__tab--selected{
+    border-bottom: 1px solid #2d69eb;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    font-family: 'Megrim', cursive;
+    font-weight: bold;
+}

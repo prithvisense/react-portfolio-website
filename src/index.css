@@ -19,9 +19,21 @@
 }
 
 .tech-qualification-container{
-  width: 50%;
+  width: 40%;
   margin: 10px;
   background-image: linear-gradient(to top, #3B1C32, #F3EAF4);
+  padding: 3vw;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.prev-qualification-container{
+  background-image: linear-gradient(to bottom, #b3ff66, white);
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  width: 40%;
   padding: 3vw;
   border-radius: 5px;
 }
